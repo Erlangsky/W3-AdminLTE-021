@@ -1,0 +1,106 @@
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\appsettings.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\NET MVC - Admin LTE.staticwebassets.runtime.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\NET MVC - Admin LTE.staticwebassets.endpoints.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\NET MVC - Admin LTE.exe
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\NET MVC - Admin LTE.deps.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\NET MVC - Admin LTE.runtimeconfig.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\NET MVC - Admin LTE.dll
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\bin\Debug\net9.0\NET MVC - Admin LTE.pdb
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.AssemblyInfoInputs.cache
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.AssemblyInfo.cs
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.RazorAssemblyInfo.cache
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.RazorAssemblyInfo.cs
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\scopedcss\bundle\NET MVC - Admin LTE.styles.css
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\scopedcss\projectbundle\NET MVC - Admin LTE.bundle.scp.css
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\8gisk0wrf8-61n19gt1b8.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\q18mjhubwn-bqjiyaj88i.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\2w9g43axqp-c2jlpeoesf.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\xg7tvsg021-erw9l3u2r3.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\5aoj0b5fyh-aexeepp0ev.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\0egg7aqly1-d7shbmvgxk.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\l7t0cd94w1-ausgxo2sd3.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\plt535y403-k8d9w2qqmf.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\elni1xwlv0-cosvhxvwiu.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\9htzdsqhm9-ub07r2b239.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\cigjemmqxn-fvhpjtyr6v.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\775pccmb8d-b7pk76d08c.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\0hplp4rtst-fsbi9cje9m.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\5nag919efw-rzd6atqjts.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\yiiui37jeg-ee0r1s7dh0.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\qr51dafq0n-dxx9fxp4il.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\a928os6ekx-jd9uben2k1.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\qic8tusi7g-khv3u5hwcm.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\3y0o3wz2w9-r4e9w2rdcm.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\ew9geq5juf-lcd1t2u6c8.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\ys1t6159mw-c2oey78nd0.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\2i5n1q0s2n-tdbxkamptv.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\y6b1sy0s7j-j5mq2jizvt.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\2kqucbc1vc-06098lyss8.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\n2e6z813cy-nvvlpmu67g.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\f41spj9790-s35ty4nyc5.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\o82k0dog9h-pj5nd1wqec.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\mk3uf2lw9x-46ein0sx1k.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\7gw59xjk93-v0zj4ognzu.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\bwa5azfopj-37tfw0ft22.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\lvaa70vn48-hrwsygsryq.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\l9mow937z4-pk9g2wxc8p.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\t9h7gy7kbo-ft3s53vfgj.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\1azfx0aumc-6cfz1n2cew.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\uhwsanh7q7-6pdc2jztkx.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\w4v0z693ei-493y06b0oq.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\t7crp88qwb-iovd86k7lj.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\p8ndrh7oz1-vr1egmr9el.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\a2a0o9q6oz-kbrnm935zg.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\m9u1mquu07-jj8uyg4cgr.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\utt02e7h3e-y7v9cxd14o.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\cgmlxboxv6-notf2xhcfb.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\mybxmgdvf6-h1s4sie4z3.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\9646swxlbv-63fj8s7r0e.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\1kfupk2i3x-0j3bgjxly4.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\vhwwrmntz9-47otxtyo56.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\eidxrdda01-4v8eqarkd7.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\wbsqfbhlwz-356vix0kms.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\dr2esi1gtn-83jwlth58m.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\xd0rzhdpgr-mrlpezrjn3.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\zqj9p63xhr-lzl9nlhx6b.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\9zw9uo896j-ag7o75518u.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\wv5aao90uc-x0q3zqp4vz.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\itjxildnf0-0i3buxo5is.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\nmywrzgq0u-o1o13a6vjx.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\b8s2g8uj69-ttgo8qnofa.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\xh7e4pj4cz-2z0ns9nrw6.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\jb3cc5wwms-muycvpuwrr.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\jrst0ogyk9-87fc7y1x7t.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\e4057c759o-mlv21k5csn.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.dll
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\refint\NET MVC - Admin LTE.dll
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.pdb
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.genruntimeconfig.cache
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\ref\NET MVC - Admin LTE.dll
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\hm86wfu1h9-3w7jejt5b1.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\khz1cr0ow4-1za78g898y.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\q7thz0p782-7xj2xr1d2u.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\ujfteqskf5-5vvclzyg2u.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\eb6hu1rwmy-by7qm3p5ay.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\fft0bilfo8-2gtq6aaaas.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\2j9556w1wy-1gn9y0qw56.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\4hk5ffbrbv-rfiktk1e1o.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\a0vewgk3eo-vtm9dvzpet.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\aa5upbvb1y-jmgwmyfb49.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\kly6e4wwwv-lvs26kliyv.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\x9g06imbrb-z9jnjllrhx.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\da3o9x2f1z-41agjzur4w.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\qx1moexfcr-41agjzur4w.gz
