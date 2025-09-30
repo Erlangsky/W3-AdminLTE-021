@@ -17,8 +17,26 @@ namespace NET_MVC___Admin_LTE.Controllers
             _logger = logger;
         }
 
+       // GET: halaman login
+        [HttpGet]
         public IActionResult Logins()
         {
+            return View();
+        }
+
+        // POST: proses login
+        [HttpPost]
+        public IActionResult Logins(string email, string password)
+        {
+            // contoh validasi sederhana (hardcode)
+            if (email == "admin@gmail.com" && password == "123")
+            {
+                // redirect ke dashboard kalau benar
+                return RedirectToAction("Index", "Dashboard");
+            }
+
+            // kalau salah → kirim error ke View
+            ViewBag.Error = "Email atau password salah!";
             return View();
         }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NET MVC - Admin LTE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5d9c6a732cdb6f761a4afd8e5eadda373fcc43f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NET MVC - Admin LTE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NET MVC - Admin LTE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

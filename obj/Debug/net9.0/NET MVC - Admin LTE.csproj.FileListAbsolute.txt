@@ -98,9 +98,10 @@ C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\fft0bilfo8-2gtq6aaaas.gz
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\2j9556w1wy-1gn9y0qw56.gz
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\4hk5ffbrbv-rfiktk1e1o.gz
-C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\a0vewgk3eo-vtm9dvzpet.gz
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\aa5upbvb1y-jmgwmyfb49.gz
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\kly6e4wwwv-lvs26kliyv.gz
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\x9g06imbrb-z9jnjllrhx.gz
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\da3o9x2f1z-41agjzur4w.gz
 C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\qx1moexfcr-41agjzur4w.gz
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\NET MVC - Admin LTE.sourcelink.json
+C:\Users\student\OneDrive - Politeknik Astra\Desktop\C#\NET MVC - Admin LTE\obj\Debug\net9.0\compressed\a0vewgk3eo-vtm9dvzpet.gz
